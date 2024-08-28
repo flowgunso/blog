@@ -23,10 +23,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <!-- 1.1.0 -->
 ## [1.1.0]
 ### Added
-* Added search, tags and archives pages.
+* Added pages:
+  * Archives.
+  * Categories.
+  * Tags.
+  * Search.
+  * RSS.
 * Added home page info.
-* Added tags to existing posts.
+* Added tags and categories to existing posts.
 ### Changed
+* Overridden the first-entry CSS class min-height to 0.
+* Converted configuration from .toml to .yaml format.
 ### Deprecated
 ### Removed
 ### Fixed

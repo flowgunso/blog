@@ -20,6 +20,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [tag]: url_to_tag
 <!-- /tag --/>
 
+<!-- 1.1.0 -->
+## [1.1.0]
+### Added
+* Added search, tags and archives pages.
+* Added home page info.
+* Added tags to existing posts.
+### Changed
+### Deprecated
+### Removed
+### Fixed
+### Security
+
+[1.1.0]: https://github.com/flowgunso/blog/releases/tag/1.1.0
+<!-- /1.1.0 -->
+
 <!-- 1.0.0 -->
 ## [1.0.0]
 ### Added

@@ -20,6 +20,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [tag]: url_to_tag
 <!-- /tag --/>
 
+<!-- 1.1.1 -->
+## [1.1.1]
+### Fixed
+* Revert removal of Archives and Search pages
+
+[1.1.1]: https://github.com/flowgunso/blog/releases/tag/1.1.1
+<!-- /1.1.1 --/>
+
 <!-- 1.1.0 -->
 ## [1.1.0]
 ### Added

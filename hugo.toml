@@ -1,5 +1,0 @@
-baseURL = 'https://notes.flwgns.ovh/'
-languageCode = 'en-us'
-title = 'Notes'
-
-theme = "PaperMod"

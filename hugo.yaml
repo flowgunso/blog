@@ -1,0 +1,65 @@
+baseURL: https://notes.flwgns.ovh/
+languageCode: en-us
+title: Notes
+
+theme: ['PaperMod']
+
+copyright: >
+  [Source code](https://github.com/flowgunso/blog) is under [MIT license](https://github.com/flowgunso/blog/blob/main/LICENSE), 
+  [articles](https://github.com/flowgunso/blog/tree/main/content) are under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 1
+    - name: Tags
+      url: tags
+      weight: 1
+    - name: Categories
+      url: categories
+      weight: 1
+    - name: Search
+      url: search
+      weight: 2
+    - name: RSS
+      url: index.xml
+      weight: 3
+
+services:
+  rss:
+
+taxonomies:
+  tag: tags
+  category: categories
+  project: projects
+
+params:
+  homeInfoParams:
+    Title: Notes
+    Content: About the stuff I do.
+
+  ShowFullTextinRSS: true
+
+  socialIcons:
+    - name: Docker
+      title: Docker Hub
+      url: https://hub.docker.com/r/flrnnc
+    - name: gitlab
+      title: Gitlab
+      url: https://gitlab.com/florian.anceau
+    - name: Liberapay
+      title: Support my work
+      url: https://liberapay.com/florian.anceau
+    - name: BuyMeACoffee
+      title: Buy me a coffee
+      url: https://buymeacoffee.com/florian.anceau
+    - name: github
+      title: Github
+      url: https://github.com/flowgunso

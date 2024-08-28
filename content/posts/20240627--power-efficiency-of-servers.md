@@ -4,6 +4,7 @@ title = 'Power efficiency of servers'
 date = 2024-05-27T16:29:00
 summary = 'Taking a look at server energy consumptions optimisations.'
 tags = [ "server", "environment" ]
+categories = [ "homelab" ]
 +++
 
 # Resources

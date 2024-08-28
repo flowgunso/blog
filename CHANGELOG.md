@@ -34,10 +34,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 * Overridden the first-entry CSS class min-height to 0.
 * Converted configuration from .toml to .yaml format.
-### Deprecated
-### Removed
-### Fixed
-### Security
 
 [1.1.0]: https://github.com/flowgunso/blog/releases/tag/1.1.0
 <!-- /1.1.0 -->
